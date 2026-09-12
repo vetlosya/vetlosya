@@ -21,9 +21,10 @@
 <div align="center">
   <details>
     <summary>${\textsf{\color{#b3000b}dni (?)}}$</summary>
-${\textsf{\color{#ffffff}under 16 / over 21}}$<br>
-${\textsf{\color{#ffffff}agressive ; troll ; gaslighter ;}}$<br>
-${\textsf{\color{#ffffff}conman ; gatekeeper ; toxic}}$
+   ${\textsf{\color{#ffffff}under 16 / over 21}}$<br>
+   ${\textsf{\color{#ffffff}agressive ; troll ; gaslighter ;}}$<br>
+   ${\textsf{\color{#ffffff}conman ; gatekeeper ; toxic ;}}$<br>
+   ${\textsf{\color{#ffffff}edgy  ‎ ‎‎ ‎ ‎‎ ‎  ‎‎ ‎ ‎ and "cool"}}$
    </details>
 </div>
 
