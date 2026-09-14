@@ -24,7 +24,7 @@
    ${\textsf{\color{#ffffff}under 16 / over 21}}$<br>
    ${\textsf{\color{#ffffff}agressive ; troll ; gaslighter ;}}$<br>
    ${\textsf{\color{#ffffff}conman ; gatekeeper ; toxic ;}}$<br>
-   ${\textsf{\color{#ffffff}edgy  ‎ ‎‎ ‎ ‎‎ ‎  ‎‎ ‎ ‎ and "cool"}}$
+   ${\textsf{\color{#ffffff}edgy and "cool"}}$
    </details>
 </div>
 
