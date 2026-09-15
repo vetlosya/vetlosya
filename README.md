@@ -29,3 +29,6 @@
 </div>
 
 <p align="center">${\textsf{\color{#AA1010} · · ────────────── }}$ ${\textsf{\color{#ffffff}· ✦ · }}$ ${\textsf{\color{#AA1010} ────────────── · · }}$
+  
+<div align="center">
+<img src = "https://i.ibb.co/b5T6GhzS/47-20260915131147.png" img width=200 />
