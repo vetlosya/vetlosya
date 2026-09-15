@@ -24,7 +24,8 @@
     <summary>${\textsf{\color{#AA1010}dni (?)}}$</summary>
    ${\textsf{\color{#ffffff}under 16 / over 22}}$<br>
    ${\textsf{\color{#ffffff}agressive ; troll ; gaslighter ;}}$<br>
-   ${\textsf{\color{#ffffff}conman ; gatekeeper ; toxic ;}}$<br>
+   ${\textsf{\color{#ffffff}conman ; gatekeeper ;}}$<br>
+   ${\textsf{\color{#ffffff}overly extroverted ; toxic}}$
    </details>
 </div>
 
