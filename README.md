@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=2400&pause=300&color=FFFFFF&background=FFFFFF00&center=true&width=435&lines=am+i+something+to%E2%80%85be%E2%80%85treasured;or+destroyed;or+pushed%E2%80%85aside%3F;what+is+the+reason+that+you%E2%80%85stare%3F;do+i+make+you+feel+scared%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=2400&pause=300&color=FFFFFF&background=FFFFFF00&center=true&width=435&lines=am+i+something+to%E2%80%85be%E2%80%85treasured;or+destroyed;or+pushed%E2%80%85aside%3F;what+is+the+reason+that+you%E2%80%85stare%3F;do+i+make+you+feel+scared%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F;do+i+creep+you+out%3F" alt="Typing SVG" /></a>
   
 <p align="center">${\textsf{\color{#AA1010} · · ────────────── }}$ ${\textsf{\color{#ffffff}· ✦ · }}$ ${\textsf{\color{#AA1010} ────────────── · · }}$
 
