@@ -32,3 +32,4 @@
   
 <div align="center">
 <img src = "https://i.ibb.co/b5T6GhzS/47-20260915131147.png" img width=200 />
+<p align="center">${\textsf{\color{#242424}──── cr: FFFCnull ────}}$
