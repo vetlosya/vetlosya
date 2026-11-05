@@ -32,4 +32,4 @@
 <p align="center">${\textsf{\color{#63A8CF} · · ────────────── }}$ ${\textsf{\color{#ffffff}· ✦ · }}$ ${\textsf{\color{#63A8CF} ────────────── · · }}$
 
 <p align="center">
-{\textsf{\color{#242424}fun fact ─ L046 is my fav fish}}$
+${\textsf{\color{#242424}fun fact ─ L046 is my fav fish}}$
