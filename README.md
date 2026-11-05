@@ -15,7 +15,7 @@
     ${\textsf{\color{#ffffff}absolutely not in the mood for anything,}}$<br>${\textsf{\color{#ffffff}dont take it personally ;
     despite all}}$<br>${\textsf{\color{#ffffff}that i'm a kind, chill, easygoing}}$<br>${\textsf{\color{#ffffff}and approachable person ;}}$<br>
     ${\textsf{\color{#ffffff}insanely loyal}}$ ${\textsf{\color{#242424}but nobody's}}$<br>${\textsf{\color{#242424}ever been as loyal back}}$ <br>
-    ${\textsf{\color{#63A8CF}· ────────}}$ ${\textsf{\color{#ffffff}· ✦ ·}}$ ${\textsf{\color{#57211E}──────── ·}}$<br>
+    ${\textsf{\color{#63A8CF}· ────────}}$ ${\textsf{\color{#ffffff}· ✦ ·}}$ ${\textsf{\color{#63A8CF}──────── ·}}$<br>
   </details>
 </div>
 
